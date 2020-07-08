@@ -1,0 +1,9 @@
+{
+  name: "Tabieorar 2020",
+  eventDate: DateFormat("yyyy/MM/dd", "en_US").parse("2020/08/22"),
+  image: 'https://www.tclpfw.org/images/io.jpg',
+  description: "Grand finale of Tabieorar 2020 - Tagged Faithful God!",
+  location: "Mount Tabieorar Ground",
+  organizer: "The Church of the Lord",
+  time: "12:00 PM - 5:00 AM",
+}
