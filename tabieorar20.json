@@ -18,5 +18,17 @@
             "organizer": "The Youth Ministry",
             "time": "7:00 PM - 3:00 AM",
          }
+    ],
+  
+  "nearbyEvents": [
+          {
+              "name": "Tabieorar 2020",
+              "eventDate": "2020/08/22",
+              "image": "https://www.tclpfw.org/images/io.jpg",
+              "description": "Grand finale of Tabieorar 2020 - Tagged Faithful God!",
+              "location": "Mount Tabieorar Ground",
+              "organizer": "The Church of the Lord",
+              "time": "12:00 PM - 5:00 AM",
+          }
     ]
 }
