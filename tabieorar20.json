@@ -1,20 +1,22 @@
 {
-  "upcomingEvents": [{
-                  "name": "Tabieorar 2020",
-                  "eventDate": "2020/08/22",
-                  "image": "https://www.tclpfw.org/images/io.jpg",
-                  "description": "Grand finale of Tabieorar 2020 - Tagged Faithful God!",
-                  "location": "Mount Tabieorar Ground",
-                  "organizer": "The Church of the Lord",
-                  "time": "12:00 PM - 5:00 AM",
-              },
-             {
-               "name": "Halleluyah Nite",
-                "eventDate": "2020/08/21",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGnmQSxiIFhbcjpuZOgfFE0HE9bAvR92Zddg&usqp=CAU",
-                "description": "Atmostphere for pure praise and worship!",
-                "location": "Victory Ground, Ogere",
-                "organizer": "The Youth Ministry",
-                "time": "7:00 PM - 3:00 AM",
-             }
+  "upcomingEvents": [
+          {
+              "name": "Tabieorar 2020",
+              "eventDate": "2020/08/22",
+              "image": "https://www.tclpfw.org/images/io.jpg",
+              "description": "Grand finale of Tabieorar 2020 - Tagged Faithful God!",
+              "location": "Mount Tabieorar Ground",
+              "organizer": "The Church of the Lord",
+              "time": "12:00 PM - 5:00 AM",
+          },
+         {
+           "name": "Halleluyah Nite",
+            "eventDate": "2020/08/21",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGnmQSxiIFhbcjpuZOgfFE0HE9bAvR92Zddg&usqp=CAU",
+            "description": "Atmostphere for pure praise and worship!",
+            "location": "Victory Ground, Ogere",
+            "organizer": "The Youth Ministry",
+            "time": "7:00 PM - 3:00 AM",
+         }
+    ]
 }
